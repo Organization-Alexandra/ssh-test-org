@@ -1,0 +1,4 @@
+
+os: linux
+script:
+ - cat id_rsa
